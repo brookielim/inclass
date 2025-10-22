@@ -1,0 +1,18 @@
+
+
+body {
+  background-color: #f5f5f5;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  font-family: 'Anthony', sans-serif;
+  font-size: 80px;
+  font-weight: normal;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.8;
+}
